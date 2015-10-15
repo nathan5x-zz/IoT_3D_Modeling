@@ -5,11 +5,11 @@ Design and develop a 3D model cases prototype for soil moisture sensor kit creat
 
 ### Description
 ---
-[Soil Moisture Box](Image Path) - this box would serve as the purpose for growing a plant and fixing a SoilMoisture sensor. It enables smooth connection of Soil moisture sensor with PhotonKit. Acrylic glass material is chosen in order to see through the soil level and moisture. MakerCase online tool has been used to create the layout plan (SVG) of dimension - 92mm x 69mm x 69mm. This layout plan (SVG) is further tweaked a little bit in Adobe Illustrator to create the top cover for the box.
+[Soil Moisture Box](https://github.com/nathan5x/IoT_3D_Modeling/blob/master/CasePics/CompleteKit.JPG) - this box would serve as the purpose for growing a plant and fixing a SoilMoisture sensor. It enables smooth connection of Soil moisture sensor with PhotonKit. Acrylic glass material is chosen in order to see through the soil level and moisture. MakerCase online tool has been used to create the layout plan (SVG) of dimension - 92mm x 69mm x 69mm. This layout plan (SVG) is further tweaked a little bit in Adobe Illustrator to create the top cover for the box.
 
-[PhotonKit Base](Image Path) - For photon kit, the base of the case has been created using 3D Model onlile tool TinkerCAD and printed using LulzBot 3d Printer. This base has two different holes on top in such a way that it can be fixed on a wall as needed.  And it also enables the Photon Kit to connect to USB Cable for power supply.
+[PhotonKit Base](https://github.com/nathan5x/IoT_3D_Modeling/blob/master/CasePics/3D_BaseCase.JPG) - For photon kit, the base of the case has been created using 3D Model onlile tool TinkerCAD and printed using LulzBot 3d Printer. This base has two different holes on top in such a way that it can be fixed on a wall as needed.  And it also enables the Photon Kit to connect to USB Cable for power supply.
 
-[PhotonKit Top Cover](Image Path) - top cover is created using Acrylic glass material. This glass box enables the user to see the LED lights. It also has provisions to connect soil moisture sensor out of the box. This cover also has been cut out similar to soil moisture box.
+[PhotonKit Top Cover](https://github.com/nathan5x/IoT_3D_Modeling/blob/master/CasePics/3D_CaseTopView.JPG) - top cover is created using Acrylic glass material. This glass box enables the user to see the LED lights. It also has provisions to connect soil moisture sensor out of the box. This cover also has been cut out similar to soil moisture box.
 
 ### Components Used
 ---
